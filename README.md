@@ -4,4 +4,4 @@ My name is Adam Zhu; I'm a developer at the Future Cities Institute at the Unive
 
 ### Interests
 
-I love data science, machine learning, AI architecture, and frontend design. 
+I love data science, AI architecture, and frontend design. I'm learning machine learning right now. 
